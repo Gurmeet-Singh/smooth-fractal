@@ -1,2 +1,9 @@
+name: Smooth Fractal
+
 baseurl: /smooth-fractal
 exclude: ['README.md']
+
+permalink: pretty
+
+sass:
+  style: :compressed
