@@ -4,4 +4,6 @@ My personal blog/site.
 ## Instructions
 To run locally -
 
-`jekyll serve --watch --baseurl=""`
+```:bash
+jekyll serve --watch --baseurl=""
+```
