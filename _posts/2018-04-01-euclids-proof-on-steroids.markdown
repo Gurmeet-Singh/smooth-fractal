@@ -27,7 +27,7 @@ Stronger result on these lines can be obtained by group theoretic considerations
 
 From the above result one can derive many non-trivial interesting conclusions. For example, for $$N=8$$ one can derive that at least 2 of $$P_{3, 8}$$, $$P_{5, 8}$$ and $$P_{7, 8}$$ are infinite.
 
-Now, we know by Dirichlet's theorem on arithmetic progressions that there are infinitely many primes of form $$p=a\ (mod\ b)$$ as long as $$gcd(a, b) = 1$$. But the proof of it is very advance and long. On the other hand, the above special cases weren't much harder than Euclid's original proof itself.
+Now, we know by Dirichlet's theorem on arithmetic progressions that there are infinitely many primes of form $$p=a\ (mod\ b)$$ as long as $$gcd(a, b) = 1$$ (For example, $$P_{3, 8}$$, $$P_{5, 8}$$ and $$P_{7, 8}$$ of last paragraph are all infinite). But the proof of it is very advance and long. On the other hand, the above special cases weren't much harder than Euclid's original proof itself.
 
 So, are there any other special cases that can be proven just by modified Euclid's argument, may be with few bits of extra mathematics? The answer is, of course, yes. Let's look at primes of form $$p=1\ (mod\ 4)$$.
 
