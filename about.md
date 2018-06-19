@@ -6,7 +6,7 @@ permalink: /about/
 
 This is my personal site and blog.
 
-Link - https://gurmeet-singh.github.io/smooth-fractal/
+Link - [https://gurmeet-singh.github.io/smooth-fractal/](https://gurmeet-singh.github.io/smooth-fractal/)
 
 Note - To see the mathematics expressions, in chrome, you have to let it load the "unsafe" script to load the latex renderer.
 
