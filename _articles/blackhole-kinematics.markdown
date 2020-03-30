@@ -23,7 +23,7 @@ $$
 If you're facing this Lagrangian for the first time, it might seem daunting. So, let's see how to work with such Lagrangian by an example. We know the spherically symmetric static case results in Schwarzschild metric, which is given by -
 
 $$
-  g_{\mu\nu}\,dx^\mu \otimes dx^\nu = \left(1-{\frac {r_{\mathrm {s} }}{r}}\right)c^2\,dt^2-\left(1-{\frac {r_{\mathrm {s} }}{r}}\right)^{-1}\,dr^2-r^2\left(d\theta ^2+\sin ^2\theta \,d\varphi ^2\right)
+  g_{\mu\nu}\,dx^\mu dx^\nu = \left(1-{\frac {r_{\mathrm {s} }}{r}}\right)c^2\,dt^2-\left(1-{\frac {r_{\mathrm {s} }}{r}}\right)^{-1}\,dr^2-r^2\left(d\theta ^2+\sin ^2\theta \,d\varphi ^2\right)
 $$
 
 where \\(r_{\mathrm {s} } = \frac{2GM}{c^2}\\) is the Schwarzschild radius. Now, let's see if we can reproduce the Newtonian mechanics from above in the limiting case. First, using coordinate time instead of proper time in action and substituting Schwarzschild metric, we get -
