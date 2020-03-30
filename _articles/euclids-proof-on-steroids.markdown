@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: article
 title:  "Euclid's Proof on Steroids"
-date: 2018-04-01
 categories: Mathematics
 ---
 

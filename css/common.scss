@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-.post {
+.article {
   &-title {
     margin-bottom: .25rem;
   }
@@ -349,7 +349,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .list {
-  &-post-title {
+  &-article-title {
     margin-bottom: .25rem;
 
     a {
@@ -361,7 +361,7 @@ tbody tr:nth-child(odd) th {
       }
     }
   }
-  &-post-date {
+  &-article-date {
     margin-bottom: 1rem;
     font-size: .75rem;
     text-transform: uppercase;
