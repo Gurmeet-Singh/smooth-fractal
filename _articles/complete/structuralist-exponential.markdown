@@ -24,7 +24,7 @@ $$
   e^x = e * e * e * ... * e\ (x\ times)\ with\ e^0 = 1
 $$
 
-Firstly notice, for this equation to work, $$x$$ should be a natural number. But still, this definition is not mathematically rigorous as '$$…$$' is not precisely defined. Fortunately, it can be easily remedied as according to structuralist point of view every natural number is either zero or successor of a natural number (it is essentially the natural numbers as in Peano's axioms). So, defining the exponential for zero and successor should be enough -
+Firstly notice, for this equation to work, $$x$$ needs to be a natural number. But still, this definition is not mathematically rigorous as '$$…$$' is not precisely defined. Fortunately, it can be easily remedied as according to structuralist point of view every natural number is either zero or successor of a natural number (it is essentially the natural numbers as in Peano's axioms). So, defining the exponential for zero and successor should be enough -
 
 $$
   e^{x+1} = e^x * e\ with\ e^0 = 1
