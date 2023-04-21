@@ -2,6 +2,7 @@
 layout: article
 title: "Structuralist approach to Exponential"
 categories: Mathematics
+comment: true
 ---
 
 Euler's famous identity -
