@@ -2,6 +2,7 @@
 layout: article
 title:  "Euclid's Proof on Steroids"
 categories: Mathematics
+comment: true
 ---
 
 We all know and love the proof of infinitude of primes by Euclid, but one of the most amazing thing about Mathematics is the possibility of generalizing or modify the proofs to obtain many more theorems. So, are there any cool modifications to Euclid's proof as well?

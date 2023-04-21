@@ -2,6 +2,7 @@
 layout: article
 title: "Spheres Of Attraction"
 categories: Physics
+comment: true
 ---
 
 In my spare time I commonly like to come up with some random problem and then solve it. And some times these random explorations results in so wonderful analysis that it's hard to put it down. This was one of those.
