@@ -150,12 +150,12 @@ Finally for the exact analysis, let's work out the corrected version of Newton's
 $$
   \begin{align}
     \dot{P_r} & = \frac{\partial L}{\partial r} \\
-    \frac{d}{dt}\left(c^{-2}H\left(1-{\frac{r_{\mathrm{s}}}{r}}\right)^{-2}\dot{r}\right) & = -\frac{c^{-2}H}{2}\left(1-{\frac{r_{\mathrm{s}}}{r}}\right)^{-1}\left(\frac{2GM}{r^2}+\frac{r_{\mathrm{s}}\dot{r}^2}{(r-r_{\mathrm{s}})^2}\right)
+    \frac{d}{dt}\left(c^{-2}H\left(1-{\frac{r_{\mathrm{s}}}{r}}\right)^{-2}\dot{r}\right) & = -\frac{c^{-2}H}{2}\left(1-{\frac{r_{\mathrm{s}}}{r}}\right)^{-1}\left(\frac{2GM}{r^2}+\frac{r_{\mathrm{s}}\dot{r}^2}{(r-r_{\mathrm{s}})^2} - 2r\dot{\phi}^2 \right)
   \end{align}
 $$
 
 By simplifying further,
 
 $$
-  \ddot{r} = -\left(1-{\frac{r_{\mathrm{s}}}{r}}\right)\frac{GM}{r^2} + \frac{3}{2}\left(1-{\frac{r_{\mathrm{s}}}{r}}\right)^{-1}\frac{r_{\mathrm{s}}\dot{r}^2}{r^2}
+  \ddot{r} = \left(1-{\frac{r_{\mathrm{s}}}{r}}\right)\left(-\frac{GM}{r^2} + r \dot{\phi}^2\right) + \frac{3}{2}\left(1-{\frac{r_{\mathrm{s}}}{r}}\right)^{-1}\frac{r_{\mathrm{s}}\dot{r}^2}{r^2}
 $$
