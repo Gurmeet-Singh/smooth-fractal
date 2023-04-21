@@ -2,7 +2,7 @@
 layout: article
 title:  "Blackhole Kinematics"
 categories: Science
-comment: true
+comments: true
 ---
 First thing anybody learns in general relativity (GR in short) is that, in GR, gravity is not a force it's a pseudo force, experienced because the space-time is not flat. Now, when I learnt the fact the only question arose in my mind was - how, in the hell, can I even start to quantify such a statement? I can imagine this might be the exact problem that Einstein faced. Soon, I learned that the non-flatness of the spacetime can be represented by a metric tensor. And learnt that, in GR, in spherically symmetric static case the metric turns out to be Schwarzschild metric. But I couldn't figure out how to work out the trajectories. So the purpose of this article is to explain exactly this, that is how to calculate the trajectories in a given metric.
 
