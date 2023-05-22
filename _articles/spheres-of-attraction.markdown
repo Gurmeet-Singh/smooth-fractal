@@ -225,7 +225,7 @@ $$
 
 It's interesting that there are no first and second order correction. That is, the zeroth order answer is really good approximation itself.
 
-## Appendix - What next?
+## Appendix - Extra notes and what next?
 1. The formula,
 
     $$
@@ -234,3 +234,9 @@ It's interesting that there are no first and second order correction. That is, t
 
     strongly suggests there might be a more direct way of deriving it but I can't think of any. So, is there any more direct way or not? Or, in other words, is there a more direct way of interpreting this result?
 2. What are the general conditions to produce a spherical equipotential surface?
+3. (Added on 22 May 2023) The problem has been discussed in [[1]](#1) as the Exercise 8.7 on Page 166. There the problem is considered for the case of repulsion between 2 similar charged balls and it confirms the first correction term with opposite sign.
+
+
+## References
+<a id="1">[1]</a>
+Bevington, P. R., & Robinson, D. K. (2003). Data reduction and error analysis for the physical sciences. Boston: McGraw-Hill. 3rd Edition
