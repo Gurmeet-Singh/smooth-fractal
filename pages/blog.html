@@ -1,0 +1,18 @@
+---
+layout: default
+permalink: /blog/
+---
+
+<div class="content list">
+{% if site.blog.size == 0 %}
+  <h2>No article found</h2>
+{% else %}
+{% for b in site.blog %}
+  <div class="list-item">
+    <h2 class="list-article-title">
+      <a href="{{ site.baseurl }}{{ b.url }}">{{ b.title }}</a>
+    </h2>
+  </div>
+{% endfor %}
+{% endif %}
+</div>

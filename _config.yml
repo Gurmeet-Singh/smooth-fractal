@@ -12,3 +12,6 @@ sass:
 collections:
   articles:
     output: true
+
+  blog:
+    output: true
